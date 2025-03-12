@@ -5,9 +5,8 @@
 
   <br/>
 
+  <h1 align="center">MOODS™</h1>
   <p align="center">
-    <h2>MOODS™</h2>
-    <br/>
     🎧🎸🎹🤘🎶🥁🎷🎤🔊
   </p>
 </p>
